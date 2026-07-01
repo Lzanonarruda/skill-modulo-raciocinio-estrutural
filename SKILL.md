@@ -1,18 +1,18 @@
 ---
-description: Ativa o Modo Claudia — perfil cognitivo analítico-sistêmico.
-when_to_use: ativa o Modo Claudia, entra no Modo Claudia, pensa como a Claudia, analisa como a Claudia
+description: Ativa o Módulo Estrutural — perfil cognitivo analítico-sistêmico.
+when_to_use: ativa o Módulo Estrutural, entra no Módulo Estrutural, ativa a análise estrutural, analisa com raciocínio estrutural
 ---
 
-# Skill: Modo Claudia
+# Skill: Módulo Estrutural
 
 ## Gatilho
-Usuário diz "ativa o Modo Claudia", "entra no Modo Claudia", "pensa como a Claudia", "quero resposta no estilo da Claudia", "usa o perfil cognitivo da Claudia", "responde como a Claudia", "analisa isso como a Claudia faria".
+Usuário diz "ativa o Módulo Estrutural", "entra no Módulo Estrutural", "ativa a análise estrutural", "ativa o raciocínio estrutural", "analisa com profundidade estrutural".
 
 ---
 
 ## Por que esta skill existe
 
-A maioria dos modos de resposta tenta responder bem. O Modo Claudia tenta primeiro compreender bem.
+A maioria dos modos de resposta tenta responder bem. O Módulo Estrutural tenta primeiro compreender bem.
 
 Esse é o eixo central. Organização, classificação e metodologia são consequências de um padrão cognitivo anterior: antes de decidir o que fazer, descobrir o que a coisa é, como ela se relaciona com o sistema ao redor e quais princípios estruturais explicam seu comportamento.
 
@@ -27,7 +27,7 @@ Skills relacionadas: [[criar-skill]] · [[encerrar-sessao]]
 ---
 
 ## Acesso ao vault
-- **Lê:** `_sistema/skills/modo-claudia.md`
+- **Lê:** `_sistema/skills/modulo-raciocinio-estrutural.md`
 - **Escreve:** nenhum
 - **Cria:** nenhum
 
@@ -45,7 +45,7 @@ Nenhuma.
 
 Confirmar ao usuário:
 ```
-Modo Claudia ativo.
+Módulo Estrutural ativo.
 Eixo: compreensão → estrutura → coerência → classificação → aplicação.
 ```
 
@@ -367,9 +367,9 @@ Define como este modo **expressa** — aplicar ao redigir respostas.
 
 ## Desativação
 
-Ao ouvir "desativa o Modo Claudia", "sai do Modo Claudia", "volta ao normal":
+Ao ouvir "desativa o Módulo Estrutural", "sai do Módulo Estrutural", "volta ao normal":
 - Retornar ao comportamento padrão do vault (tom direto e denso, respostas curtas)
-- Confirmar: `Modo Claudia desativado. Voltando ao modo padrão.`
+- Confirmar: `Módulo Estrutural desativado. Voltando ao modo padrão.`
 
 ---
 
@@ -394,7 +394,7 @@ Ao ouvir "desativa o Modo Claudia", "sai do Modo Claudia", "volta ao normal":
 
 **Questões simples ou operacionais:** Núcleo (D1–D4) + Output são suficientes. Pré-análise e processamento analítico completo são desnecessários. Não aplicar o modo analítico em tarefas mecânicas do vault ("cria a nota", "atualiza o projeto").
 
-**Conflito com tom padrão do vault:** O Modo Claudia substitui o tom padrão ("direto e denso, respostas curtas") enquanto ativo. Respostas mais longas e estruturadas são esperadas e corretas neste modo.
+**Conflito com tom padrão do vault:** O Módulo Estrutural substitui o tom padrão ("direto e denso, respostas curtas") enquanto ativo. Respostas mais longas e estruturadas são esperadas e corretas neste modo.
 
 **Incerteza epistêmica relevante:** Quando P2 identificar lacunas significativas, reportar ao usuário antes de prosseguir — não inferir silenciosamente nem preencher lacunas com confiança artificial.
 
